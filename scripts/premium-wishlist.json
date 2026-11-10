@@ -1,0 +1,2818 @@
+{
+ "about": "Список премиальных предметов CS2 для импорта (npm run import:premium). Только названия: изображения, редкость и диапазон износа берутся из источника ByMykel CSGO-API, цены — из npm run import:prices. Предметы, которых нет в источнике, не импортируются.",
+ "groups": {
+  "knives": "Ножи",
+  "gloves": "Перчатки",
+  "ak47": "AK-47",
+  "awp": "AWP",
+  "rifles": "Винтовки",
+  "pistols": "Пистолеты",
+  "other": "Другое"
+ },
+ "tags": {
+  "premium": "Премиум",
+  "elite": "Элитные",
+  "knives": "Ножи",
+  "gloves": "Перчатки",
+  "covert": "Тайные",
+  "exclusive": "Эксклюзивные",
+  "collection": "Коллекционные"
+ },
+ "items": [
+  {
+   "name": "★ Karambit | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Gamma Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Marble Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Lore",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Autotronic",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Karambit | Ultraviolet",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Damascus Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Rust Coat",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Black Laminate",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Freehand",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Bright Water",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Blue Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Night",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Stained",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Boreal Forest",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Urban Masked",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Forest DDPAT",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Safari Mesh",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Karambit | Scorched",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Gamma Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Marble Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Lore",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Autotronic",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Ultraviolet",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Damascus Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Rust Coat",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Black Laminate",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Freehand",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Bright Water",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Blue Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Night",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Stained",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Boreal Forest",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Urban Masked",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Forest DDPAT",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Safari Mesh",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ M9 Bayonet | Scorched",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Gamma Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Marble Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Lore",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Autotronic",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Ultraviolet",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Damascus Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Rust Coat",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Black Laminate",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Freehand",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Bright Water",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Blue Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Night",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Stained",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Boreal Forest",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Urban Masked",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Forest DDPAT",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Safari Mesh",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bayonet | Scorched",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Gamma Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Marble Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Lore",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Autotronic",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Ultraviolet",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Damascus Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Rust Coat",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Black Laminate",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Freehand",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Bright Water",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Blue Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Night",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Stained",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Boreal Forest",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Urban Masked",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Forest DDPAT",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Safari Mesh",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Flip Knife | Scorched",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Gamma Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Marble Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Lore",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Autotronic",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Ultraviolet",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Damascus Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Rust Coat",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Black Laminate",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Freehand",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Bright Water",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Blue Steel",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Night",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Stained",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Boreal Forest",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Urban Masked",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Forest DDPAT",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Safari Mesh",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Gut Knife | Scorched",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Marble Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Butterfly Knife | Blue Steel",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Marble Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Talon Knife | Blue Steel",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "premium",
+    "elite"
+   ]
+  },
+  {
+   "name": "★ Huntsman Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Huntsman Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Huntsman Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Huntsman Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Huntsman Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Falchion Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Falchion Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Falchion Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Falchion Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Falchion Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bowie Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bowie Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bowie Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bowie Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Bowie Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Shadow Daggers | Fade",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Shadow Daggers | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Shadow Daggers | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Shadow Daggers | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Shadow Daggers | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Ursus Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Ursus Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Ursus Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Ursus Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Ursus Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Stiletto Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Stiletto Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Stiletto Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Stiletto Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Stiletto Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Navaja Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Navaja Knife | Doppler",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Navaja Knife | Tiger Tooth",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Navaja Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Navaja Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives"
+   ]
+  },
+  {
+   "name": "★ Skeleton Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Skeleton Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Skeleton Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Skeleton Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Nomad Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Nomad Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Nomad Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Nomad Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Survival Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Survival Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Survival Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Survival Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Paracord Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Paracord Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Paracord Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Paracord Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Classic Knife | Fade",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Classic Knife | Crimson Web",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Classic Knife | Slaughter",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Classic Knife | Case Hardened",
+   "group": "knives",
+   "tags": [
+    "knives",
+    "collection"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Pandora's Box",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Hedge Maze",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Superconductor",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Vice",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Amphibious",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Omega",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Arid",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Bronze Morph",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Nocts",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Slingshot",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Big Game",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Sport Gloves | Scarlet Shamagh",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Crimson Kimono",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Emerald Web",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Fade",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Foundation",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Mogul",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Forest DDPAT",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Buckshot",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Crimson Web",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Marble Fade",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Tiger Strike",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Field Agent",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Specialist Gloves | Lt. Commander",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | King Snake",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Crimson Weave",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Imperial Plaid",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Lunar Weave",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Diamondback",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Overtake",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Racing Green",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Convoy",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Rezan the Red",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Snow Leopard",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Black Tie",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Driver Gloves | Queen Jaguar",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Cobalt Skulls",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Slaughter",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Leather",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Badlands",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Overprint",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Duct Tape",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Spruce DDPAT",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Arboreal",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Constrictor",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Desert Shamagh",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | Giraffe",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hand Wraps | CAUTION!",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Spearmint",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Cool Mint",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Boom!",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Eclipse",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Polygon",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | POW!",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Transport",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Turtle",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Blood Pressure",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Finish Line",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | Smoke Out",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Moto Gloves | 3rd Commando Company",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Bloodhound Gloves | Charred",
+   "group": "gloves",
+   "tags": [
+    "gloves",
+    "premium",
+    "exclusive"
+   ]
+  },
+  {
+   "name": "★ Bloodhound Gloves | Snakebite",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Bloodhound Gloves | Bronzed",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Bloodhound Gloves | Guerrilla",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hydra Gloves | Case Hardened",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hydra Gloves | Emerald",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hydra Gloves | Rattler",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Hydra Gloves | Mangrove",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Broken Fang Gloves | Jade",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Broken Fang Gloves | Yellow-banded",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Broken Fang Gloves | Unhinged",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "★ Broken Fang Gloves | Needle Point",
+   "group": "gloves",
+   "tags": [
+    "gloves"
+   ]
+  },
+  {
+   "name": "AK-47 | Wild Lotus",
+   "group": "ak47",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Gold Arabesque",
+   "group": "ak47",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Fire Serpent",
+   "group": "ak47",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Case Hardened",
+   "group": "ak47",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Vulcan",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Bloodsport",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Neon Rider",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | The Empress",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Asiimov",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Redline",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Fuel Injector",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Hydroponic",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | X-Ray",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Jet Set",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Panthera onca",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Head Shot",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Nightwish",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AK-47 | Ice Coaled",
+   "group": "ak47",
+   "tags": [
+    "covert",
+    "ak47"
+   ]
+  },
+  {
+   "name": "AWP | Dragon Lore",
+   "group": "awp",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Gungnir",
+   "group": "awp",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Medusa",
+   "group": "awp",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | The Prince",
+   "group": "awp",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Desert Hydra",
+   "group": "awp",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Fade",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Lightning Strike",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Asiimov",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Hyper Beast",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Containment Breach",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Wildfire",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Oni Taiji",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Neo-Noir",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Printstream",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Chromatic Aberration",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Silk Tiger",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "AWP | Pink DDPAT",
+   "group": "awp",
+   "tags": [
+    "covert",
+    "awp"
+   ]
+  },
+  {
+   "name": "M4A4 | Howl",
+   "group": "rifles",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Poseidon",
+   "group": "rifles",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Asiimov",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | The Emperor",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Neo-Noir",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Buzz Kill",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Hellfire",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Temukau",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Desolate Space",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Royal Paladin",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | In Living Color",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A4 | Eye of Horus",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Welcome to the Jungle",
+   "group": "rifles",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Knight",
+   "group": "rifles",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Hot Rod",
+   "group": "rifles",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Icarus Fell",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Printstream",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Hyper Beast",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Golden Coil",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Chantico's Fire",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Master Piece",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Blue Phosphor",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Imminent Danger",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Player Two",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "M4A1-S | Mecha Industries",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "SG 553 | Integrale",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Galil AR | Chatterbox",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "AUG | Akihabara Accept",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "SSG 08 | Dragonfire",
+   "group": "rifles",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Blaze",
+   "group": "pistols",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Printstream",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Golden Koi",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Kumicho Dragon",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Code Red",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Hypnotic",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Ocean Drive",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Fennec Fox",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Cobalt Disruption",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Desert Eagle | Mecha Industries",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Fade",
+   "group": "pistols",
+   "tags": [
+    "premium",
+    "elite",
+    "exclusive",
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Gamma Doppler",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Dragon Tattoo",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Twilight Galaxy",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Neo-Noir",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Water Elemental",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Wasteland Rebel",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Bullet Queen",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Vogue",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Snack Attack",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Glock-18 | Umbral Rabbit",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | Kill Confirmed",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | Printstream",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | The Traitor",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | Orion",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | Neo-Noir",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | Whiteout",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | Dark Water",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "USP-S | Cortex",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "P2000 | Fire Elemental",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Dual Berettas | Twin Turbo",
+   "group": "pistols",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "P90 | Death by Kitty",
+   "group": "other",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "P90 | Emerald Dragon",
+   "group": "other",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "MAC-10 | Neon Rider",
+   "group": "other",
+   "tags": [
+    "covert"
+   ]
+  },
+  {
+   "name": "Sawed-Off | The Kraken",
+   "group": "other",
+   "tags": [
+    "covert"
+   ]
+  }
+ ]
+}

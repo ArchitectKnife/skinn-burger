@@ -1,0 +1,30 @@
+{
+  "name": "burger-skin",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BURGER SKIN — платформа открытия кейсов CS2",
+  "engines": {
+    "node": ">=24.7"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning src/server.ts",
+    "dev": "node --env-file-if-exists=.env --watch --disable-warning=ExperimentalWarning src/server.ts",
+    "check": "tsc -p tsconfig.json",
+    "seed": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/seed.ts",
+    "import:catalog": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/import-catalog.ts",
+    "import:premium": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/import-catalog.ts --wishlist --download-images",
+    "seed:cases": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/seed-cases-v2.ts",
+    "import:steam": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/import-steam-snapshot.ts",
+    "seed:cases3": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/seed-cases-v3.ts",
+    "import:prices": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/import-prices.ts",
+    "import:prices:local": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/import-prices-local.ts",
+    "create-owner": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/create-owner.ts",
+    "backup": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/backup.ts",
+    "test": "node --env-file-if-exists=.env --disable-warning=ExperimentalWarning scripts/smoke-test.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.0",
+    "@types/node": "^24.0.0"
+  }
+}
